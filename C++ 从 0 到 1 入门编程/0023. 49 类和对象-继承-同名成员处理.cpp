@@ -1,3 +1,5 @@
+// 解决中文乱码
+
 #include <iostream>
 #include <string>
 using namespace std;
