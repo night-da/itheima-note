@@ -8,9 +8,9 @@ public:
 	}
 
 	void showPersonAge() {
-		if (this == NULL) {
-			return;
-		}
+		// if (this == NULL) {
+		// 	return;
+		// }
 
 		cout << "age = " << this->m_Age << endl;
 	}
