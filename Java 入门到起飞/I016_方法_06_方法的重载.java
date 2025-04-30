@@ -1,5 +1,3 @@
-package I016_方法_06_方法的重载;
-
 public class I016_方法_06_方法的重载 {
     public static void main(String[] args) {
         compare(10, 20);

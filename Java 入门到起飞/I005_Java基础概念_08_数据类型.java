@@ -1,5 +1,3 @@
-package I005_Java基础概念_08_数据类型;
-
 public class I005_Java基础概念_08_数据类型 {
     public static void main(String[] args) {
         // byte: 2 ^ (8 - 1)

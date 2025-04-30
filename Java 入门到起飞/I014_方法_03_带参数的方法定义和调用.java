@@ -1,5 +1,3 @@
-package I014_方法_03_带参数的方法定义和调用;
-
 public class I014_方法_03_带参数的方法定义和调用 {
     public static void main(String[] args) {
         getSum(10, 20);

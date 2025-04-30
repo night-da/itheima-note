@@ -1,5 +1,3 @@
-package I006_Java»ù´¡¸ÅÄî_11_¼üÅÌÂ¼Èë;
-
 import java.util.Scanner;
 
 public class I006_Java»ù´¡¸ÅÄî_11_¼üÅÌÂ¼Èë {

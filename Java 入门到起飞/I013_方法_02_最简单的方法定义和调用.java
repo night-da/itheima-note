@@ -1,5 +1,3 @@
-package I013_方法_02_最简单的方法定义和调用;
-
 public class I013_方法_02_最简单的方法定义和调用 {
     public static void main(String[] args) {
         playGame();

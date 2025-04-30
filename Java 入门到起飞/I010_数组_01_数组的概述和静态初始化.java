@@ -1,5 +1,3 @@
-package I010_数组_01_数组的概述和静态初始化;
-
 public class I010_数组_01_数组的概述和静态初始化 {
     public static void main(String[] args) {
         int[] arr_1 = {11, 12, 13, 14, 15};

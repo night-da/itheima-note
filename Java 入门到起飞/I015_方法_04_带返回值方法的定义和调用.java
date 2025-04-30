@@ -1,5 +1,3 @@
-package I015_方法_04_带返回值方法的定义和调用;
-
 public class I015_方法_04_带返回值方法的定义和调用 {
     public static void main(String[] args) {
         int sum1 = getSum(10, 20, 30);

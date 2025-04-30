@@ -1,5 +1,3 @@
-package I012_数组_04_数组的动态初始化和常见问题;
-
 public class I012_数组_04_数组的动态初始化和常见问题 {
     public static void main(String[] args) {
         String[] arr_1 = new String[50];

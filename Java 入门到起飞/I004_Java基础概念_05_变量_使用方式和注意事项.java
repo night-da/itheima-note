@@ -1,5 +1,3 @@
-package I004_Java基础概念_05_变量_使用方式和注意事项;
-
 public class I004_Java基础概念_05_变量_使用方式和注意事项 {
     public static void main(String[] args) {
         int a = 10;

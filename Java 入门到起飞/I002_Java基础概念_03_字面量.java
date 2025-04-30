@@ -1,5 +1,3 @@
-package I002_Java基础概念_03_字面量;
-
 public class I002_Java基础概念_03_字面量 {
     public static void main(String[] args) {
         // Ctrl + S + D 向下复制一行

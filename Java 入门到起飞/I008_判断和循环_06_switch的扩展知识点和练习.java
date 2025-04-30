@@ -1,5 +1,3 @@
-package I008_判断和循环_06_switch的扩展知识点和练习;
-
 public class I008_判断和循环_06_switch的扩展知识点和练习 {
     public static void main(String[] args) {
         // switch新特性：JDK 12

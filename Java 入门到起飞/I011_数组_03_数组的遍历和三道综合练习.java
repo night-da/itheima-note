@@ -1,5 +1,3 @@
-package I011_数组_03_数组的遍历和三道综合练习;
-
 public class I011_数组_03_数组的遍历和三道综合练习 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};

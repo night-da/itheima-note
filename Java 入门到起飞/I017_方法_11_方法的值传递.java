@@ -1,5 +1,3 @@
-package I017_方法_11_方法的值传递;
-
 public class I017_方法_11_方法的值传递 {
     public static void main(String[] args) {
         int[] arr = {10, 20, 30};

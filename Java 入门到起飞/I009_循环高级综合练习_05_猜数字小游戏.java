@@ -1,5 +1,3 @@
-package I009_循环高级综合练习_05_猜数字小游戏;
-
 import java.util.Random;
 
 public class I009_循环高级综合练习_05_猜数字小游戏 {

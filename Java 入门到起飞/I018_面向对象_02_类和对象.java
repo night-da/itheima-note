@@ -1,8 +1,6 @@
-package I018_面向对象_02_类和对象;
-
 public class I018_面向对象_02_类和对象 {
     public static void main(String[] args) {
-        Phone p = new Phone();
+        I018_面向对象_02_类和对象_Phone p = new I018_面向对象_02_类和对象_Phone();
 
         p.brand = "小米";
         p.price = 1999.98;

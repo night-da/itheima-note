@@ -1,5 +1,3 @@
-package I007_运算符_01_03_算数运算符详解和综合练习;
-
 public class I007_运算符_01_03_算数运算符详解和综合练习 {
     public static void main(String[] args) {
         System.out.println(3 + 2);

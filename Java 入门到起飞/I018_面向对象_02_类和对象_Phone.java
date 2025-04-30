@@ -1,6 +1,4 @@
-package I018_面向对象_02_类和对象;
-
-public class Phone {
+public class I018_面向对象_02_类和对象_Phone {
     String brand;
     double price;
 
